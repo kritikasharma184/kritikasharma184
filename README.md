@@ -18,7 +18,8 @@
 
 ## 🧠 About Me
 
-🎓 B.Tech CSE student at DCRUST, Murthal (Sonipat) /n
+🎓 B.Tech CSE student at DCRUST, Murthal (Sonipat) 
+
 🔭 Currently working on Python, Data Analysis, and Machine Learning projects
 🌱 Learning AI, ML, Data Science, and Agentic AI
 💡 Passionate about solving problems through technology and building useful applications
