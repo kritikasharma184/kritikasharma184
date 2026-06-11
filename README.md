@@ -110,3 +110,5 @@ Artificial Intelligence • Data Science • Deep Learning • LLMs
 
 
 ⭐ Always learning and growing in the world of AI and Technology.
+
+"From learning the basics to building real-world solutions — this is just the beginning."
