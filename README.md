@@ -1,6 +1,8 @@
-# Hi 👋, I'm Kritika Sharma
+<h1 align="center">Hi 👋, I'm Kritika Sharma</h1>
 
-### B.Tech CSE Student | AI & ML Enthusiast | Python Developer
+<h3 align="center">
+B.Tech CSE Student • AI & ML Enthusiast • Python Developer
+</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kritika-sharma-176100290">
