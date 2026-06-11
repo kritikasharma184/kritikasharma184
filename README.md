@@ -52,19 +52,38 @@ B.Tech CSE Student • AI & ML Enthusiast • Python Developer
 ## ⚙️ Tech Stack
 
 ### 💻 Languages
-Python • C • C++ • SQL
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🌐 Web Development
-HTML • CSS
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 
 ### 📊 Data Analytics
-Pandas • NumPy • Matplotlib • Seaborn • Tableau
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
 ### 🤖 AI & Machine Learning
-Machine Learning • Data Preprocessing • Linear Regression • Model Evaluation • Agentic AI
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+![Data Preprocessing](https://img.shields.io/badge/Data_Preprocessing-4285F4?style=for-the-badge&logo=databricks&logoColor=white)
+
+![Linear Regression](https://img.shields.io/badge/Linear_Regression-34A853?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-EA4335?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-8A2BE2?style=for-the-badge)
 
 ### 🛠️ Tools
-Git • GitHub • VS Code
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ### 🌱 Currently Learning
 Artificial Intelligence • Data Science • Deep Learning • LLMs
