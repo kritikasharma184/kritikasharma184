@@ -2,6 +2,21 @@
 
 ### B.Tech CSE Student | AI & ML Enthusiast | Python Developer
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/kritika-sharma-176100290">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:kritikasharma2903@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/kritikasharma184">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+
 🎓 Computer Science Engineering student at DCRUST, Murthal
 
 🌱 Currently learning:
