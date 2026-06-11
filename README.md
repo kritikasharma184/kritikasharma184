@@ -71,13 +71,9 @@ B.Tech CSE Student • AI & ML Enthusiast • Python Developer
 ### 🤖 AI & Machine Learning
 
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
 ![Data Preprocessing](https://img.shields.io/badge/Data_Preprocessing-4285F4?style=for-the-badge&logo=databricks&logoColor=white)
-
 ![Linear Regression](https://img.shields.io/badge/Linear_Regression-34A853?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
 ![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-EA4335?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-8A2BE2?style=for-the-badge)
 
 ### 🛠️ Tools
@@ -111,4 +107,3 @@ Artificial Intelligence • Data Science • Deep Learning • LLMs
 
 ⭐ Always learning and growing in the world of AI and Technology.
 
-"From learning the basics to building real-world solutions — this is just the beginning."
