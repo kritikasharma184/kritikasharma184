@@ -16,8 +16,17 @@
   </a>
 </p>
 
+## 🧠 About Me
 
-🎓 Computer Science Engineering student at DCRUST, Murthal
+🎓 B.Tech CSE student at DCRUST, Murthal (Sonipat)
+🔭 Currently working on Python, Data Analysis, and Machine Learning projects
+🌱 Learning AI, ML, Data Science, and Agentic AI
+💡 Passionate about solving problems through technology and building useful applications
+📚 Constantly improving my skills through hands-on projects and internships
+📩 Reach me at: kritikasharma2903@gmail.com
+🚀 Open to internship opportunities and collaborative projects
+
+
 
 🌱 Currently learning:
 - Artificial Intelligence
